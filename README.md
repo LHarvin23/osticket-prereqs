@@ -78,13 +78,13 @@ Unzip PHP file into the “C:\PHP” folder
 
 
 <p>
-<img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
+<img width="499" height="385" alt="image" src="https://github.com/user-attachments/assets/b161f306-e66d-4dd6-8dc6-6b3c15238b31" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From OsTicket zip file install MySQL
 </p>
-<br />prereqs
 
 
 <p>
