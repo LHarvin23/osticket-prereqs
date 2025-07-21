@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Download the latest zip file of OsTicket
+Download the latest zip file of OsTicket 
 </p>
 <br />
 
