@@ -39,6 +39,7 @@ Download the latest zip file of OsTicket
 </p>
 <br />
 
+
 <p>
 <img width="768" height="607" alt="image" src="https://github.com/user-attachments/assets/56003d8d-9dbe-4043-9b61-4ff0ffa0b567" />
 
@@ -47,6 +48,7 @@ Download the latest zip file of OsTicket
 Install / Enable IIS in Windows WITH CGI
 </p>
 <br />
+
 
 <p>
 <img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
