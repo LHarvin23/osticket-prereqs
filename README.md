@@ -53,27 +53,27 @@ Install / Enable IIS in Windows WITH CGI
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />prereqs
+ install PHP Manager for IIS</p>
+
+
 
 <p>
-<img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />prereqs
-
-<p>
-<img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
+<img width="645" height="491" alt="image" src="https://github.com/user-attachments/assets/c539ded1-98ee-4859-a702-313653711989" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create the directory C:\PHP
 </p>
-<br />prereqs
+
+
+<p>
+<img width="574" height="348" alt="image" src="https://github.com/user-attachments/assets/9fb0dcba-faa3-4c67-9e7d-13ac0a29395b" />
+
+</p>
+<p>
+Unzip PHP file into the “C:\PHP” folder
+</p>
+
 
 <p>
 <img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
