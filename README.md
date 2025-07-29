@@ -88,21 +88,32 @@ From OsTicket zip file install MySQL
 
 
 <p>
-<img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
+<img width="760" height="328" alt="image" src="https://github.com/user-attachments/assets/2100ddd1-7208-4add-8c89-fe73fe5ec30e" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as an Admin, 
+Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+, Reload IIS (Open IIS, Stop and Start the server)
+
 </p>
-<br />prereqs
 
 
 <p>
-<img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
+<img width="823" height="407" alt="image" src="https://github.com/user-attachments/assets/819e326d-1f6c-437f-894e-fff5ed0280d9" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Install OsTicket from "OsTicket zip file', Reload IIS, Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”. 
+Go back to IIS, sites -> Default -> osTicket,
+Double-click PHP Manager,
+Click “Enable or disable an extension”. 
+Enable: php_imap.dll, php_intl.dll, php_opcache.dll.
+Refresh the osTicket site in your browser, observe the changes.
+
 </p>
 <br />prereqs
 
