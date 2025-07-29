@@ -114,15 +114,21 @@ Click “Enable or disable an extension”.
 Enable: php_imap.dll, php_intl.dll, php_opcache.dll.
 Refresh the osTicket site in your browser, observe the changes.
 
-</p>
-<br />prereqs
+
+<p>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fa8c0f94-7c15-4bb1-9bee-a909340b6ab0" />
+
+
+Download Heidi SQL. Create a new session. Connect to the session. Create a database called OsTicket </p>
+
 
 
 <p>
-<img width="386" height="336" alt="image" src="https://github.com/user-attachments/assets/b84f1b80-25a3-4680-bd1a-d8084ec9e385" />
+<img width="868" height="667" alt="image" src="https://github.com/user-attachments/assets/775ba8e7-4293-4654-be9d-32e3ed684e54" />
+
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />prereqs
+
+Continue to setup OsTicket in browser. Create username and password in MySQL. Congradulations you have successfully created OsTicket!
+
